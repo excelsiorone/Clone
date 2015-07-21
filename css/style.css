@@ -55,6 +55,13 @@ html {
  ul {
   list-style: none;
  }
+ .introduction {
+  background-image: url('file:///Users/Ozzy/Thinkful/startup-landing-page-clone/Images/first-background%20copy.jpg');
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 45.938em;
+ }
 
 body {
   margin: 0;

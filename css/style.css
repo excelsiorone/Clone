@@ -62,7 +62,20 @@ html {
   background-size: cover;
   height: 45.938em;
  }
-
+ .introduction h1 {
+  margin-top: 17.5rem;
+  font-size: 3.125rem;
+}
+ .introduction h1, .introduction h3 {
+  color: white;
+  text-align: center;
+  font-weight: 300;
+ }
+ .content {
+  padding: 0 0.938rem;
+  margin: 0 auto;
+  min-width: 37.5rem;
+ }
 body {
   margin: 0;
 }
